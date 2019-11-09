@@ -1,7 +1,7 @@
 # Jawaban-soal-arkademy-batch-13
 Jawaban no.4
 
-'''
+```
 import java.util.Scanner;
 public class Main {
   public static void main(String[] args) {
@@ -23,4 +23,4 @@ public class Main {
   }
   }
 }
-'''
+```
